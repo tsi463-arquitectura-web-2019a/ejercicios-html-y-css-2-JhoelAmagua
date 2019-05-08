@@ -1,0 +1,35 @@
+.fondo1{
+	background-color: #33bebe;
+	height: 60px;
+	
+}
+
+.h1{
+	font-weight: normal;
+	font-family: Arial;
+	color: #ffffff;
+	transform: translate(2%,60%);
+}
+
+.body{
+	margin: 0 auto;
+	width: 600px;
+	margin-top: 10%;
+}
+
+.imagen{
+	float: left;
+	margin-top: 5%;
+}
+
+.texto{
+	width: 60%;
+	float: right;
+	margin-top: 5%;
+	color: #7c8b88;
+	font-size: 1.1em;
+	font-family: Arial;
+}
+
+
+
